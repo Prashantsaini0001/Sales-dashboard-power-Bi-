@@ -26,3 +26,6 @@ Data Cleaning & Transformation (Power Query)
 DAX (Data Analysis Expressions)
 
 Data Visualization Best Practices
+
+
+Screenshot  https://github.com/Prashantsaini0001/Sales-dashboard-power-Bi-/blob/main/Screenshot%202025-06-25%20222858.png
